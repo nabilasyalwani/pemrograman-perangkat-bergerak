@@ -12,7 +12,7 @@ Sebagai penjelasan singkat, `widget` merupakan semua komponen yang bisa kita lih
 
 Untuk memahami widget lebih lanjut, mari perhatikan gambar tampilan aplikasi di bawah ini:
 
-[image my first app yang akan dijelaskan]
+![widget](assets/tampilan.png)
 
 Pada gambar di atas, terdapat sebanyak 11 jenis widget berbeda. Berikut penjelasan masing masing widget dan contoh penggunaannya di dalam kode.
 
