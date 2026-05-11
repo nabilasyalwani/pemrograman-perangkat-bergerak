@@ -42,6 +42,8 @@ Aplikasi ini menggunakan model CNN sebagai pendeteksi penyakit pada citra retina
 - TensorFlow / Keras (CNN VGG19)
 - Lifelines (CoxPHFitter Survival Analysis)
 
+---
+
 ## How it works
 
 Panduan menggunakan aplikasi Eyexaminer:
