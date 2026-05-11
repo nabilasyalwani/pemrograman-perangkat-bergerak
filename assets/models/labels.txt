@@ -1,0 +1,5 @@
+mild
+moderate
+no dr
+proliferatif dr
+severe
